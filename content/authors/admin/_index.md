@@ -1,49 +1,51 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Behavior analyst, data analyst, and professor interested in large-scale behavior change.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Psychology
+    institution: The University of Nevada, Reno
+    year: 2015
+  - course: MS in Behavior Analysis
+    institution: The University of North Texas
+    year: 2011
+  - course: BS in Psychology
+    institution: Georgia Institute of Technology
     year: 2008
-email: ""
+email: "zmorford@pm.me"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Behavior Analysis
+- Data Science
+- Games
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Behavioral Health Center of Excellence (BHCOE)
+  url: https://www.bhcoe.org/
+- name: The Chicago School of Professional Psychology (Dallas)
+  url: https://www.thechicagoschool.edu/dallas/
+- name: Texas Association for Behavior Analysis (TxABA)
+  url: https://www.txaba.org/
+
+role: Data Analyst, Professor of Behavior Analysis, Secretary-Treasurer
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ZHMorford
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=spSifXcAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/SolarDifference
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/zachary-morford/
 superuser: true
-title: Nelson Bighetti
+title: Zachary H. Morford, PhD, BCBA-D
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zachary H. Morford is a data analyst at the BHCOE, where he works with large data sets related to ABA organizations and their staff and patients. Dr. Morford is also a professor of behavior analysis at The Chicago School of Professional Psychology (Dallas) where he teaches in their masters program in behavior analysis and, soon, their doctoral program in behavior analysis. Dr. Morford also serves as the secretary-treasurer for his local behavior analysis non-profit organization, TxABA.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
